@@ -2,8 +2,4 @@ n1 updated chnaged and now second update
 
 I have made some changes in file 
 
-<<<<<<< HEAD
 new changes made by sahil
-=======
-New changes made now
->>>>>>> 1068bb7a3b7a3c5f3920a41df12541d7371b1108
