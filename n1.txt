@@ -1,5 +1,9 @@
 n1 updated chnaged and now second update
 
+<<<<<<< HEAD
 I have made some changes in file 
 
 new changes done by mohit
+=======
+new changes made by sahil
+>>>>>>> 72a0afe64c9c04451a55426d1df64471e09d97ab
