@@ -1,5 +1,9 @@
 n1 updated chnaged and now second update
 
+<<<<<<< HEAD
 I have made some changes in file 
 
 new changes made by sahil
+=======
+I have made some changes in file 
+>>>>>>> parent of 1068bb7 (secondary update)
